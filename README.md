@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mustafo898
 - 👀 I’m interested in Android developing 
-- 🌱 I’m currently learning android 
+- 🌱 I’m currently freelancer 
 - 📫 How to reach me can through the telegram t.me/@dark_comp0ser
 
 <!---
